@@ -1,6 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/88257354/158116167-84ec0567-5697-4413-8464-17150f4560e9.png)
 
-<p align="left">
-<a href="https://twitter.com/chrwome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrwome" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chrwome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chrwome" height="30" width="40" /></a>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chrwome)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/chrwome)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/920732849450143825)  
+
